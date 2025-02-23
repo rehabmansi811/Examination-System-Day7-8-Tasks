@@ -1,0 +1,14 @@
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\bin\Debug\net9.0\Day8Tasks.exe
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\bin\Debug\net9.0\Day8Tasks.deps.json
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\bin\Debug\net9.0\Day8Tasks.runtimeconfig.json
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\bin\Debug\net9.0\Day8Tasks.dll
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\bin\Debug\net9.0\Day8Tasks.pdb
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.AssemblyInfoInputs.cache
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.AssemblyInfo.cs
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.csproj.CoreCompileInputs.cache
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.dll
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\refint\Day8Tasks.dll
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.pdb
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\Day8Tasks.genruntimeconfig.cache
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\Day8Tasks\obj\Debug\net9.0\ref\Day8Tasks.dll

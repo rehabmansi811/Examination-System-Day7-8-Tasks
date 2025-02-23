@@ -1,0 +1,14 @@
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\bin\Debug\net9.0\examination system.exe
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\bin\Debug\net9.0\examination system.deps.json
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\bin\Debug\net9.0\examination system.runtimeconfig.json
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\bin\Debug\net9.0\examination system.dll
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\bin\Debug\net9.0\examination system.pdb
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.AssemblyInfoInputs.cache
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.AssemblyInfo.cs
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.csproj.CoreCompileInputs.cache
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.dll
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\refint\examination system.dll
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.pdb
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\examination system.genruntimeconfig.cache
+F:\ITI 9months\C#\Day7\tasks Day7 final\examination system slu\examination system\obj\Debug\net9.0\ref\examination system.dll
